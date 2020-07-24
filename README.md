@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Oneide Luiz Schneider, I graduated in 2010 with a Bachelor’s Degree in Information Systems.
-I have been working as a Software Developer since 2009. I participated in projects for desktop-systems, mobile-systems, websites, web-systems, APIs, crawlers, e-commerce, system integrations, etc. \
+I have been working as a Software Developer since 2010. I participated in projects for desktop-systems, mobile-systems, websites, web-systems, APIs, crawlers, e-commerce, system integrations, etc. \
 Currently, Remote DevOps engineer at Nibble and solve problems using Linux, containers, and cloud. 
 
 # Contact 
