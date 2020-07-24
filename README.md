@@ -15,9 +15,8 @@ Currently, Remote DevOps and Software engineer and solve problems using Linux, c
 
 - [E-mail](mailto:oneidels@gmail.com) :e-mail:
 - Phone: +55 49 9 99367442 :phone:
-- [LinkedIn](https://www.linkedin.com/in/oneideluizschneider) :link:
-- [GitHub](https://github.com/OneideLuizSchneider) :link:
-- [Gitlab](https://gitlab.com/oneideluizschneider) :link:
+- [LinkedIn](https://www.linkedin.com/in/oneideluizschneider)
+- [Gitlab](https://gitlab.com/oneideluizschneider)
 
 
 <!--
