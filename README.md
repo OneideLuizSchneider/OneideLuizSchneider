@@ -8,6 +8,7 @@ Currently, Remote DevOps and Software engineer and solve problems using Linux, c
 <img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/k8s.png" width="50">
 <img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/docker.png" width="50">
 <img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/java.png" width="50">
+  <img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/devops.png" width="50">
 </p>
 
 # Contact 
