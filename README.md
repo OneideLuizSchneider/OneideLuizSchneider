@@ -11,12 +11,11 @@ Currently, Remote DevOps and Software engineer and solve problems using Linux, c
 <!--  <img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/devops.png" width="50"> -->
 </p>
 
-# Contact 
+### Contact 💬
 
-- [E-mail](mailto:oneidels@gmail.com) :e-mail:
-- Phone: +55 49 9 99367442 :phone:
-- [LinkedIn](https://www.linkedin.com/in/oneideluizschneider)
-- [Gitlab](https://gitlab.com/oneideluizschneider)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-black?style=flat-square&labelColor=black&logo=gitlab&logoColor=white&link=https://gitlab.com/oneideluizschneider)](https://gitlab.com/oneideluizschneider)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oneideschneider)](https://twitter.com/oneideschneider)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oneideluizschneider)](https://www.linkedin.com/in/oneideluizschneider)
 
 
 <!--
