@@ -1,8 +1,9 @@
 ### Hi 👋
 
-I'm Oneide Luiz Schneider, I've graduated in 2010 with a Bachelor’s Degree in Information Systems.
-I have been working as a Software Engineer since 2010. I participated in projects for web, desktop, mobile, APIs, crawlers, e-commerce, system integrations, etc. \
-Currently, SRE | DevOps | Software Engineer and solve problems using Linux, containers, and cloud. 
+I'm Oneide Luiz Schneider, I've graduated in 2010 with a Bachelor’s Degree in Information Systems. 
+I have been working as a Software Engineer since then. I participated in projects for web, desktop, mobile, APIs, crawlers, e-commerce, system integrations, and so on.
+\
+Currently, SRE and solve problems using Linux, containers, and cloud. 
 
 <p align="center">
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>  
