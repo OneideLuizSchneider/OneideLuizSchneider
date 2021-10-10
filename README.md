@@ -40,6 +40,10 @@ Currently, SRE and solve problems using Linux, containers, and cloud.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oneideluizschneider)](https://www.linkedin.com/in/oneideluizschneider)
 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/kubernetes-ckad-color.png" width="200">
+</p>
+
 <!--
 **OneideLuizSchneider/OneideLuizSchneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
