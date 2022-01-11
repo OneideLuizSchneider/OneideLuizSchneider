@@ -35,7 +35,6 @@ Currently, DevOps and solve problems using Linux, containers, and cloud.
 
 ### Contact 💬
 
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-black?style=flat-square&labelColor=black&logo=gitlab&logoColor=white&link=https://gitlab.com/oneideluizschneider)](https://gitlab.com/oneideluizschneider)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oneideschneider)](https://twitter.com/oneideschneider)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oneideluizschneider)](https://www.linkedin.com/in/oneideluizschneider)
 
@@ -46,7 +45,7 @@ Currently, DevOps and solve problems using Linux, containers, and cloud.
 
 <!--
 **OneideLuizSchneider/OneideLuizSchneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-black?style=flat-square&labelColor=black&logo=gitlab&logoColor=white&link=https://gitlab.com/oneideluizschneider)](https://gitlab.com/oneideluizschneider)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
