@@ -1,7 +1,7 @@
 ### Hi 👋
 
-I'm Oneide Luiz Schneider, I've graduated in 2010 with a Bachelor’s Degree in Information Systems. 
-I've been working as a Software Engineer since 2010 and participated in many projects, from Desktop to Web Applications, APIs, websites, e-commerces, system integrations, and so on. 
+I'm Oneide Luiz Schneider, I graduated in 2010 with a Bachelor’s Degree in Information Systems. 
+I've been working as a Software Engineer since 2010 and participated in many projects, from Desktop to Web Applications. 
 \
 Currently, SRE / DevOps and solve problems using Linux, containers, and cloud. 
 
