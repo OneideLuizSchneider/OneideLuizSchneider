@@ -1,9 +1,10 @@
 ### Hi 👋
 
-I'm Oneide Luiz Schneider, I graduated in 2010 with a Bachelor’s Degree in Information Systems. 
-I've been working as a Software Engineer since 2010 and participated in many projects, from Desktop to Web Applications. 
-\
-Currently, SRE / DevOps and solve problems using Linux, containers, and cloud. 
+I’m Oneide Luiz Schneider, a seasoned Software Engineer with a Bachelor's Degree in Information Systems, graduating in 2010. 
+With over a decade of experience, I have contributed to a wide range of projects, spanning from desktop to web applications. \
+Currently, I specialize in Site Reliability Engineering (SRE) and DevOps, 
+focusing on solving complex challenges using Linux, containers, and cloud technologies.
+
 
 <p align="center">
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>  
