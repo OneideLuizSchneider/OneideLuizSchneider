@@ -38,6 +38,9 @@ Currently, SRE / DevOps and solve problems using Linux, containers, and cloud.
 
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/kubernetes-cka-color.png" width="200">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/kubernetes-ckad-color.png" width="200">
 </p>
 
