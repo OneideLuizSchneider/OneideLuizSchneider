@@ -34,7 +34,7 @@ focusing on solving complex challenges using Linux, containers, and cloud techno
 
 ### Contact 💬
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/oneideschneider)
+[![Twitter Badge](https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/x.png)](https://twitter.com/oneideschneider)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oneideluizschneider)](https://www.linkedin.com/in/oneideluizschneider)
 
 
