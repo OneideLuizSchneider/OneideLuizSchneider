@@ -5,6 +5,7 @@ With over a decade of experience, I have contributed to a wide range of projects
 Currently, I specialize in Site Reliability Engineering (SRE) and DevOps, 
 focusing on solving complex challenges using Linux, containers, and cloud technologies.
 
+<!--
 <p align="center">
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>    
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -20,9 +21,8 @@ focusing on solving complex challenges using Linux, containers, and cloud techno
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>  
-  
 </p>
-
+-->
 
 ### Contact 💬
 
