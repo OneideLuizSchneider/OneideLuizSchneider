@@ -31,6 +31,8 @@ focusing on solving complex challenges using Linux, containers, and cloud techno
 
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/kubestronaut.png" width="200">
+  
 <img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/kubernetes-cks-color.png" width="200">
   
 <img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/kubernetes-cka-color.png" width="200">
