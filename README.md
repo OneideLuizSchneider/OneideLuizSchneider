@@ -39,9 +39,9 @@ focusing on solving complex challenges using Linux, containers, and cloud techno
 
 <img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/kubernetes-ckad-color.png" width="200">
 
-<img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/kubernetes-kcsa-color.png" width="185">
+<img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/kubernetes-kcsa-color.png" width="190">
 
-<img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/kubernetes-kcna-color.png" width="185">
+<img src="https://raw.githubusercontent.com/OneideLuizSchneider/OneideLuizSchneider/master/assets/kubernetes-kcna-color2.png" width="200">
 
 </p>
 
